@@ -30,7 +30,7 @@ unicode = 0041;
 },
 {
 glyphname = B;
-lastChange = "2017-12-13 05:36:04 +0000";
+lastChange = "2017-12-13 05:44:41 +0000";
 layers = (
 {
 layerId = "E2BF4403-E358-4EC4-809E-552B7C35198D";
@@ -83,6 +83,7 @@ width = 600;
 }
 );
 unicode = 0042;
+changeCount = 69;
 },
 {
 glyphname = C;
